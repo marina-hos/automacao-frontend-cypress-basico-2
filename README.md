@@ -1,16 +1,15 @@
 # Automação Frontend - Cypress básico atualizado
 
-📋 Descrição
+Descrição
 
 Este projeto contém testes automatizados usando Cypress para validar as funcionalidades da calculadora disponível em TestSheepNZ Basic Calculator.
 
-📚 Conteúdo do Curso
+Conteúdo do Curso
 
 - Instalação e configuração do Cypress
 - Estrutura de testes
 - Comandos básicos do Cypress:
 
-💡
 
  cy.visit() para navegar
  
@@ -24,7 +23,7 @@ Este projeto contém testes automatizados usando Cypress para validar as funcion
 - Realização de operações em calculadora
 - Validação de sucesso
 
-📌 Recursos Úteis
+Recursos Úteis
 
 - Documentação oficial Cypress: https://docs.cypress.io/ 
 - Aplicação para teste - https://testsheepnz.github.io/BasicCalculator.html

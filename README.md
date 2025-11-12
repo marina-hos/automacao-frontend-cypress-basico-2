@@ -9,6 +9,7 @@ Este projeto contém testes automatizados usando Cypress para validar as funcion
 - Instalação e configuração do Cypress
 - Estrutura de testes
 - Comandos básicos do Cypress:
+
 💡
  cy.visit() para navegar
 

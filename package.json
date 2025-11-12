@@ -1,0 +1,25 @@
+{
+  "name": "automacao-frontend-cypress-basico-2",
+  "version": "1.0.0",
+  "description": "Repositório do curso de automação frontend com Cypress - Básico Atualizado",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marina-hos/automacao-frontend-cypress-basico-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/marina-hos/automacao-frontend-cypress-basico-2/issues"
+  },
+  "homepage": "https://github.com/marina-hos/automacao-frontend-cypress-basico-2#readme",
+  "devDependencies": {
+    "cypress": "^15.6.0",
+    "mochawesome": "^7.1.4"
+  }
+}

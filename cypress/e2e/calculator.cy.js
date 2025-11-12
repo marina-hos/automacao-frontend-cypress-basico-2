@@ -6,7 +6,7 @@ describe('Calculadora TestSheepNZ', () => {
 // beforeEach é executado antes de cada teste (it)
   beforeEach(() => {
 // Carrega o arquivo de dados calculadoraData.json
-    cy.fixture('calculadoraData').as('dados')
+    cy.fixture('calculatorData').as('dados')
 
 // Abre a calculadora usando o comando customizado
     cy.abrirCalculadora()

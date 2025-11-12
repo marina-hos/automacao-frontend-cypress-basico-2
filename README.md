@@ -11,12 +11,10 @@ Este projeto contém testes automatizados usando Cypress para validar as funcion
 - Comandos básicos do Cypress:
 
 💡
- cy.visit() para navegar
 
+ cy.visit() para navegar
  cy.get() para selecionar elementos
- 
  type(), check(), click(), select() para interações
- 
  should() para validações
 
 # Exemplo abordado
